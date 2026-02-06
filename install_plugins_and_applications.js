@@ -147,4 +147,4 @@ installPluginsAndApplications([
     'com.glide.quiz_designer', //Quiz Designer
     'sn_vsc', //Security Center   
     'com.snc.ppm_innovation_management', // Idea Mgmt with SPM:w
-]);
+]false, true);
